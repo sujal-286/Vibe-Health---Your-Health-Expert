@@ -1,0 +1,9 @@
+{
+  "name": "Vibe Health - Your Health Expert",
+  "description": "Advanced AI-powered health monitoring and lifestyle analysis application.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
