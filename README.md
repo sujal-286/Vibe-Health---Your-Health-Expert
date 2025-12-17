@@ -64,7 +64,3 @@
 2.  **Dashboard**: View your daily breakdown.
 3.  **Log Data**: Use the Meal Tracker or Sleep Analysis tools to populate your dashboard.
 4.  **Generate Report**: Click "Generate Initial Report" on the dashboard to trigger the AI analysis based on your inputs.
-
-## License
-
-MIT
