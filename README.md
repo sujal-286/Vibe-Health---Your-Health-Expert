@@ -11,6 +11,14 @@
     *   **Diagnostics**: Standardized tests (GAD-7, PHQ-9, Sleep Index) with AI-powered professional recommendations.
 *   **AI Chat Therapist**: A compassionate chatbot grounded with Google Maps to find nearby health professionals.
 *   **Privacy First**: All personal data is stored locally in your browser.
+![WhatsApp Image 2025-12-17 at 15 23 22_c3254c14](https://github.com/user-attachments/assets/933b4088-164c-48d3-8b4c-4aa9d5fef77b)
+![WhatsApp Image 2025-12-17 at 15 31 21_c959279d](https://github.com/user-attachments/assets/5b20396e-bf67-446c-ad90-2306245238f6)
+![WhatsApp Image 2025-12-17 at 15 34 19_2f0b326d](https://github.com/user-attachments/assets/fea7e101-0718-4605-8b4f-42c8b9c6e2f0)
+![WhatsApp Image 2025-12-17 at 15 38 52_0dc5b1dd](https://github.com/user-attachments/assets/f07816c3-e6f0-42a0-aa98-029d457d76b2)
+![WhatsApp Image 2025-12-17 at 15 40 03_458ac169](https://github.com/user-attachments/assets/1ad2f088-a800-4cbf-848e-f859d74c3384)
+
+
+
 
 ## Tech Stack
 
