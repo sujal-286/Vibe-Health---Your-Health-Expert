@@ -1,7 +1,7 @@
 import { GoogleGenAI, Type } from "@google/genai";
 import { UserProfile, DailyMetrics, MealEntry, DailyLog } from "../types";
 
-const API_KEY = process.env.API_KEY || 'AIzaSyBae6oxxrdDV6T0xFECMx8JKnQCkqOWPHk'; 
+const API_KEY = process.env.API_KEY || 'Enterapikey1234567khhgccds'; 
 
 const ai = new GoogleGenAI({ apiKey: API_KEY });
 
